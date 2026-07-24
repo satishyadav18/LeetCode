@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/satishyadav18/LeetCode/tree/master/0049-group-anagrams) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satishyadav18/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -40,5 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/satishyadav18/LeetCode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/satishyadav18/LeetCode/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/satishyadav18/LeetCode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/satishyadav18/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
