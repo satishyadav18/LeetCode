@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0608-tree-node](https://github.com/satishyadav18/LeetCode/tree/master/0608-tree-node) |
+## Array
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/satishyadav18/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Math
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/satishyadav18/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/satishyadav18/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/satishyadav18/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
