@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satishyadav18/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/satishyadav18/LeetCode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/satishyadav18/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
