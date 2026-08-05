@@ -14,22 +14,23 @@
  * }
  */
 class Solution {
-    int ans = 0;
+    int tilt = 0;
+
     public int findTilt(TreeNode root) {
-        PostOrd(root);
-        return ans;
+        dfs(root);
+        return tilt;
     }
+    private int dfs(TreeNode root){
+       if(root == null){
+        return 0;
+       }
 
-    private int PostOrd(TreeNode root){
-          if(root == null){
-            return 0;
-        }
+       int left = dfs(root.left);
+       int right = dfs(root.right);
 
-        int left = PostOrd(root.left);
-        int right = PostOrd(root.right);
-
-        ans += Math.abs(left - right);
+        tilt += Math.abs(left - right);
 
         return left + right + root.val;
+
     }
 }
